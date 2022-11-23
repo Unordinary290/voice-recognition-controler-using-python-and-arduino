@@ -1,0 +1,14 @@
+hey guys i am Aditya.
+This project of mine is to work all appliance on voice-recognition.
+so most important things you required is:
+1)arduino
+2)internet
+3)survo motor
+4)some leds
+5)laptop/pc with mic.
+
+And while conecting arduino to laptop/pc please check port number because it is vary on different pc/lapi.
+I am giving you all my small video of working of project.
+
+
+THANK YOU!
